@@ -1,0 +1,8 @@
+1.The RAM is volatile,and all its contents aew lost once a program terminates
+in order to persist the data forever,we use files.
+
+2.A file data stored in astorage device.A python program can talk to the file by reading content from it and writing content to it.
+
+3. there are 2 types of files 
+I.text file
+II. binary file
